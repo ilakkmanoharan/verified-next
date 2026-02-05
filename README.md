@@ -42,4 +42,3 @@ A Next.js app for software engineers to build profiles, take assessments, and ge
   - **Profile (`/profile`):** Protected; edit headline, bio, visibility, experience, education, projects, certifications, skills, links; avatar upload.
   - **Public profile (`/profile/[userId]):** Read-only view when visibility is public or unlisted.
 
-See `private/plan1.md` and `private/specification1.md` for full spec and schema.
